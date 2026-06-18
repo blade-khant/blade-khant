@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="C:\Users\YOUTH\OneDrive\Pictures\Camera Roll\image" width="100%">
-</p>
 <h1 align="center">Hi 👋, I'm Aung Min Khant</h1>
 
 <h3 align="center">
