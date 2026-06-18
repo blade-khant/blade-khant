@@ -85,7 +85,7 @@ My goal is to become a professional software developer and work in Japan's IT in
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/blade-khant
-- Email: your-email@example.com
+- Email:  aungminkhant2023@gmail.com
 
 ---
 
