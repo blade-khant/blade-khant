@@ -56,7 +56,7 @@ I'm an aspiring IT professional from Myanmar who is passionate about software de
 
 ## 📂 Projects
 
-### 🛕 Ma Har Wi Ya Myat Buddha
+### 🛕 MaHar WiYa Myat Buddha
 A religious and informational website project.
 
 ### 📚 Library Management System
