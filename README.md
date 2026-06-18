@@ -1,95 +1,103 @@
 <h1 align="center">Hi 👋, I'm Aung Min Khant</h1>
-<h3 align="center">Aspiring Software Developer | ITPEC IP Certified | Future IT Engineer in Japan 🇯🇵</h3>
+
+<h3 align="center">
+Aspiring Software Developer | ITPEC IP Certified | Future IT Engineer in Japan 🇯🇵
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;ITPEC+IP+Certified;JLPT+N5+Passed;Currently+Learning+PHP+and+N3;Future+IT+Engineer+in+Japan" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am an aspiring Software Developer from Myanmar with a strong passion for software development and Japanese language learning.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 💻 Passionate about Software Development
 - 🎓 Grade 12 Graduate
-- 💻 ITPEC IP Certified
+- 🏅 ITPEC IP Certified
 - 🇯🇵 JLPT N5 Passed
 - 📚 Currently Studying JLPT N3
-- 🌱 Currently Learning PHP Development
+- 🌱 Learning PHP Development
 - 🗣️ English Speaking Intermediate Level
 - 🎯 Goal: Work as an IT Engineer in Japan
 
+<br>
+
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,php" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## 🛕 Mahar Wiya Myat Buddha
+### 🛕 Mahar Wiya Myat Buddha
 
-### Technology
-HTML • CSS • JavaScript
+> Buddhist Educational Website
 
-### Description
-A Buddhist educational website developed to help people learn Buddhist teachings and improve their religious knowledge.
+**Technologies:** HTML, CSS, JavaScript
 
-### Features
-- Buddha Speeches and Teachings
-- Buddha Knowledge Quiz/Test
-- Responsive User Interface
-- Educational Content Management
+✨ Features
+
+- Buddha Speeches
+- Buddhist Knowledge Tests
+- Responsive Design
+- Educational Resources
 
 ---
 
-## 📚 Library Management System
+### 📚 Library Management System
 
-### Technology
-HTML • CSS • JavaScript • Java SE (J2SE)
+> Library Operation Management Software
 
-### Description
-A library management application developed to simplify library operations and record management.
+**Technologies:** HTML, CSS, JavaScript, Java SE (J2SE)
 
-### Features
+✨ Features
+
 - Admin Dashboard
 - Book Management
 - Member Management
-- Borrowing Process
-- Returning Process
+- Borrow & Return Books
 - Fund Management
-- Report Management
+- Reports
 
 ---
 
-## 🛒 Multi Vendor Marketplace
+### 🛒 Multi Vendor Marketplace
 
-### Technology
-HTML • CSS • JavaScript • Java EE (J2EE)
+> E-Commerce Platform
 
-### Description
-A multi-vendor e-commerce platform that allows sellers and buyers to interact efficiently.
+**Technologies:** HTML, CSS, JavaScript, Java EE (J2EE)
 
-### Features
+✨ Features
+
 - Admin Dashboard
 - Seller Dashboard
 - Wallet System
-- Real-Time Chat System
-- Product Buying
-- Product Selling
+- Real-Time Chat
+- Product Buying & Selling
 - Order Management
 - User Management
 
@@ -97,45 +105,77 @@ A multi-vendor e-commerce platform that allows sellers and buyers to interact ef
 
 ## 📜 Certifications
 
-- ✅ ITPEC IP (Information Technology Passport Examination)
-- ✅ HTML Course
-- ✅ CSS Course
-- ✅ JavaScript Course
-- ✅ Java SE (J2SE) Course
-- ✅ Java EE (J2EE) Course
-- ✅ Computer Certificate
-- ✅ English Speaking Intermediate Certificate
-- ✅ JLPT N5
+🏆 ITPEC IP (Information Technology Passport Examination)
+
+🏆 HTML, CSS, JavaScript Certificate
+
+🏆 Java SE (J2SE) Certificate
+
+🏆 Java EE (J2EE) Certificate
+
+🏆 Computer Certificate
+
+🏆 English Speaking Intermediate Certificate
+
+🏆 JLPT N5
 
 ---
 
 ## 🌱 Currently Learning
 
-- PHP Development
-- Advanced Web Development
-- System Design
-- Database Optimization
-- JLPT N3 Japanese Language
+```text
+PHP Development        ███████████░░░ 80%
+Japanese N3            ████████░░░░░ 65%
+System Design          ██████░░░░░░░ 50%
+Database Optimization  ██████░░░░░░░ 50%
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blade-khant&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blade-khant&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=blade-khant&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌏 Languages
+
+- 🇲🇲 Myanmar (Native)
+- 🇬🇧 English (Intermediate)
+- 🇯🇵 Japanese (JLPT N5, Studying N3)
 
 ---
 
 ## 🎯 Career Objective
 
-To become a professional Software Engineer and contribute to innovative software projects in Japan while continuously improving my technical and communication skills.
+I aspire to become a professional Software Engineer and contribute to innovative IT projects in Japan. I continuously improve my technical knowledge, communication skills, and Japanese language proficiency to achieve this goal.
 
 ---
 
-## 📊 GitHub Statistics
+## 📫 Connect With Me
 
-![Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=blade-khant&show_icons=true)
+📧 Email: aungminnkhant2023@gmail.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blade-khant&layout=compact)
+🐙 GitHub: github.com/blade-khant
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- GitHub: https://github.com/blade-khant
-- Email: aungminnkhant2023@gmail.com
+### ⭐ Thank you for visiting my profile!
 
-⭐ Thank you for visiting my profile.
+"Keep Learning, Keep Building, Keep Growing."
+
+</div>
