@@ -136,5 +136,6 @@ To become a professional Software Engineer and contribute to innovative software
 ## 📫 Contact
 
 - GitHub: https://github.com/blade-khant
+- Email: aungminnkhant2023@gmail.com
 
 ⭐ Thank you for visiting my profile.
