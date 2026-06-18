@@ -168,7 +168,7 @@ I aspire to become a professional Software Engineer and contribute to innovative
 
 📧 Email: aungminnkhant2023@gmail.com
 
-🐙 GitHub: github.com/blade-khant
+🐙GitHub: https://github.com/blade-khant
 
 ---
 
