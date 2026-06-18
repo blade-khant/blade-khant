@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blade-khant/blade-khant/main/banner.png" width="100%">
+  <img src="C:\Users\YOUTH\OneDrive\Pictures\Camera Roll\image" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Aung Min Khant</h1>
 
