@@ -120,7 +120,7 @@ Aspiring Software Developer | ITPEC IP Certified | Future IT Engineer in Japan �
 
 🏆 English Speaking Intermediate Certificate
 
-🏆 JLPT N5
+🏆 JLPT N4
 
 ---
 
